@@ -1,0 +1,14 @@
+{
+  "name": "api_donadores",
+  "version": "1.0.0",
+  "description": "API PARA LA APP DE DONADORES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lennin sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
